@@ -1,0 +1,12 @@
+{
+  "name": "founder-stack",
+  "description": "founder-stack: Claude Code skills for founders, from customer discovery to GTM, branding, marketing and sales.",
+  "owner": { "name": "Ayush Jamwal", "url": "https://github.com/ajstars1" },
+  "plugins": [
+    {
+      "name": "founder-stack",
+      "source": "./",
+      "description": "16 skills: router, 10 customer-discovery frameworks, /gtm, /branding, /marketing, /sales (46 playbooks from 39 books) and /learn."
+    }
+  ]
+}

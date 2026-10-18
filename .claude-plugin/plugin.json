@@ -1,0 +1,12 @@
+{
+  "name": "founder-stack",
+  "displayName": "founder-stack",
+  "version": "3.0.0",
+  "description": "Startup operating system for Claude Code: customer discovery, go-to-market, branding, marketing and sales skills distilled from 39 top business books. Evidence-graded; every recommendation ends in a test.",
+  "author": { "name": "Ayush Jamwal", "url": "https://github.com/ajstars1" },
+  "homepage": "https://github.com/ajstars1/founder-stack",
+  "repository": "https://github.com/ajstars1/founder-stack",
+  "license": "MIT",
+  "keywords": ["startup", "founders", "go-to-market", "branding", "marketing", "sales", "customer-discovery", "lean-startup", "positioning", "pricing", "jobs-to-be-done", "business-model-canvas"],
+  "skills": ["./"]
+}
