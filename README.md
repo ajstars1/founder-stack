@@ -190,7 +190,7 @@ repo.
   debrief folders in your project. `/learn` keeps your progress in `~/.founder-stack/progress.md`.
 - **Your data:** the router may *ask Claude to read* artifacts you point it to (your repo, analytics
   exports, sales notes) to check claims against the record. Nothing is read without you asking, and
-  nothing is sent anywhere by the plugin.
+  nothing is sent anywhere by the plugin. Full details: [Privacy](PRIVACY.md).
 - **Web:** skills tell Claude to use its built-in web search only for current public facts
   (competitors, prices, trademark or domain availability, platform rules), always cited.
 
@@ -199,7 +199,7 @@ repo.
 - [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md): the ledger, evidence grades, domain-skill design, the token economy
 - [`docs/SKILL-SPEC.md`](docs/SKILL-SPEC.md): the contract every domain skill follows
 - [`docs/PHILOSOPHY.md`](docs/PHILOSOPHY.md): why zero-hallucination coaching
-- [`CONTRIBUTING.md`](CONTRIBUTING.md) · [`CHANGELOG.md`](CHANGELOG.md)
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) · [`CHANGELOG.md`](CHANGELOG.md) · [Privacy](PRIVACY.md)
 
 ---
 

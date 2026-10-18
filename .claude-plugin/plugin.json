@@ -27,5 +27,8 @@
   "skills": [
     "./"
   ],
-  "icon": "./.claude-plugin/icon.png"
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://github.com/ajstars1/founder-stack/blob/main/PRIVACY.md",
+  "supportUrl": "https://github.com/ajstars1/founder-stack/issues",
+  "documentationUrl": "https://github.com/ajstars1/founder-stack#readme"
 }
