@@ -59,10 +59,13 @@ thousands of pages, and the authors often disagree with each other.
 
 Or, on older versions: `/plugin marketplace add ajstars1/founder-stack`, then `/plugin install founder-stack@founder-stack`.
 
-**As plain skills** in `~/.claude/skills`:
+**As plain skills** in `~/.claude/skills`: clone the repo, read `install.sh` (about 50 lines; it only
+copies the skill folders), then run it from the clone:
 
 ```bash
-git clone https://github.com/ajstars1/founder-stack && cd founder-stack && ./install.sh
+git clone https://github.com/ajstars1/founder-stack
+cd founder-stack
+./install.sh
 ```
 
 Then ask in plain words, or call a skill directly:
@@ -184,6 +187,19 @@ Contributions follow [`docs/SKILL-SPEC.md`](docs/SKILL-SPEC.md). Write in your o
 every method. If you run a `business-books` MCP server (a local full-text index of books you own),
 the skills can quote originals and `/learn` can deep-read chapters. The server isn't part of this
 repo.
+
+## What this plugin runs and accesses
+
+- **No code runs when you install it.** The plugin is Markdown skill files only: no hooks, no MCP
+  servers, no scripts, no network calls of its own. `install.sh` is an optional local copy script for
+  the plain-skills route, and you run it yourself.
+- **Files:** skills read and write only `discovery/LEDGER.md`, `discovery/00-CONTEXT.md` and their
+  debrief folders in your project. `/learn` keeps your progress in `~/.founder-stack/progress.md`.
+- **Your data:** the router may *ask Claude to read* artifacts you point it to (your repo, analytics
+  exports, sales notes) to check claims against the record. Nothing is read without you asking, and
+  nothing is sent anywhere by the plugin.
+- **Web:** skills tell Claude to use its built-in web search only for current public facts
+  (competitors, prices, trademark or domain availability, platform rules), always cited.
 
 ## Docs
 
