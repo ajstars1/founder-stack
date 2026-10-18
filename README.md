@@ -59,14 +59,7 @@ thousands of pages, and the authors often disagree with each other.
 
 Or, on older versions: `/plugin marketplace add ajstars1/founder-stack`, then `/plugin install founder-stack@founder-stack`.
 
-**As plain skills** in `~/.claude/skills`: clone the repo, read `install.sh` (about 50 lines; it only
-copies the skill folders), then run it from the clone:
-
-```bash
-git clone https://github.com/ajstars1/founder-stack
-cd founder-stack
-./install.sh
-```
+**As plain skills** in `~/.claude/skills` (no plugin system): see [`docs/INSTALL.md`](docs/INSTALL.md).
 
 Then ask in plain words, or call a skill directly:
 
