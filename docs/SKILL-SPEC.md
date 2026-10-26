@@ -7,6 +7,7 @@ skill has the same shape so the router, the learner, and the ledger work the sam
 <domain>/
   SKILL.md          # always loaded when the skill triggers. 700–1,200 words.
   playbooks/*.md    # loaded on demand, 1–2 per request. 350–900 words each.
+  reference/*.md    # optional data (lists, link tables). Loaded only when a playbook names it; credit the source at the top.
 ```
 
 Token budget per request: SKILL.md (~1.5k tokens) + one or two playbooks (~1–2.5k) ≈ 3–4k.

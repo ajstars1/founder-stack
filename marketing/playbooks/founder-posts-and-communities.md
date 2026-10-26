@@ -18,7 +18,7 @@
 - A post that taught something gets shared. A pitch rarely does [Berger].
 - One idea per post. Cut everything that isn't the point.
 - [Field] New or low-karma accounts are often auto-filtered, and some sites lock posting until you've commented. Check the rules and any "search first" policy before posting, and never repost removed text.
-- [Field] Launch sites and directories bring backlinks and a few makers, rarely buyers. They're cheap experiments, not a launch (`/gtm` launch-strategy).
+- [Field] Launch sites and directories bring backlinks and a few makers, rarely buyers. They're cheap experiments, not a launch (`/gtm` launch-strategy). To pick places, use `../reference/places-to-post.md` (about 100 places sorted by who you'll meet, links checked). Review and comparison sites carry buyer intent; maker launch sites mostly don't.
 
 ## Mistakes
 - Pitching in the first line, or in a community you joined that day.

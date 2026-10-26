@@ -103,7 +103,7 @@ Sales combined). It reads two files and answers:
 | **`/founder-stack`** | Router. Takes your situation, picks the right skill, keeps the Belief Ledger, chains skills from idea to scale | n/a |
 | **`/gtm`** | Go-to-market strategy | positioning · category design · beachhead & chasm · launch strategy · pricing & packaging · product-led growth · marketplace cold start · platform design · growth model · GTM motion & scaling · moats · JTBD for GTM |
 | **`/branding`** | Brand strategy | brand foundation · differentiation vs distinctiveness · distinctive assets · naming · messaging & BrandScript · archetypes · community · brand architecture · rebrand decision · brand audit |
-| **`/marketing`** | Demand and growth | offer design · lead magnets · money model · copywriting & headlines · sticky messages · word of mouth · channel selection · growth experiments · activation & retention · ethical persuasion · audience & permission · reframing · founder posts & communities |
+| **`/marketing`** | Demand and growth | offer design · lead magnets · money model · copywriting & headlines · sticky messages · word of mouth · channel selection · growth experiments · activation & retention · ethical persuasion · audience & permission · reframing · founder posts & communities (+ a sorted list of ~100 places to post) |
 | **`/sales`** | Founder-led B2B sales | first customers · ICP & lists · first-ask design · cold outreach · discovery calls · Mom Test conversations · demo & pitch · objections · stalled deals · negotiation · investor pitch · pipeline · sales team |
 | **Discovery** | Find a problem worth solving | `/where-to-play` · `/problem-discovery` · `/customer-discovery` · `/jtbd` · `/value-proposition-canvas` · `/business-model-canvas` · `/experiments` · `/secondary-research` · `/facts-assumptions-unknowns` · `/startup-scorecard` |
 | **`/outreach-sprint`** | Run the push | daily math, warm rings, agent target research, approval-gated sends, follow-up calendar, reply scripts, scoreboard, retro into `discovery/FIELD-NOTES.md` |
@@ -133,6 +133,10 @@ The playbooks synthesize 39 books, including *Obviously Awesome* (Dunford), *Cro
 *The Challenger Sale* and *The JOLT Effect* (Dixon), *Never Split the Difference* (Voss),
 *Founding Sales* (Kazanjy) and *The Mom Test* (Fitzpatrick). Full list:
 [`docs/SOURCES.md`](docs/SOURCES.md).
+
+Also credited: *The Minimalist Entrepreneur* (Lavingia) for warm-ring selling, and the CC0 list
+[PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) (McCaffrey), sorted
+and link-checked in `marketing/reference/places-to-post.md`.
 
 **How they were distilled:**
 - A study card was written for each book from its full text. Every quote on every card was checked

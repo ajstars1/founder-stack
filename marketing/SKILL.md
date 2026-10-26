@@ -24,7 +24,7 @@ Turns a validated problem into paying customers through the offer, the message, 
 | "People nod and forget." "We explain it like engineers." "Our pitch doesn't change anything." | `playbooks/sticky-messages.md` |
 | "Nobody talks about us." "Should we pay for referrals?" "We went viral and sales didn't move." | `playbooks/word-of-mouth-and-virality.md` |
 | "Which channel should we use?" "Nothing works." "Our one good channel gets worse every quarter." | `playbooks/channel-selection.md` |
-| "Our posts get likes, not leads." "The community removed our post." "Should we post on Reddit or a launch site?" | `playbooks/founder-posts-and-communities.md` |
+| "Our posts get likes, not leads." "The community removed our post." "Where should we post or list our startup?" | `playbooks/founder-posts-and-communities.md` (+ `reference/places-to-post.md` for the list) |
 | "Do we have product/market fit?" "We have too many growth ideas." "Can we scale spend yet?" | `playbooks/growth-experiments.md` |
 | "Users sign up and never come back." "They never reach the point where it clicks." "Members churn in month three." | `playbooks/activation-and-retention.md` |
 | "Is this countdown, scarcity claim or notification over the line?" "Buyers regret it." | `playbooks/ethical-persuasion.md` |

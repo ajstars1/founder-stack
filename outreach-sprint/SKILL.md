@@ -23,7 +23,7 @@ The execution loop for a 1–4 week push. `/sales` and `/marketing` hold the met
 **Daily: run**
 5. **Targets via research agents** (brief in TEMPLATES §2). Each agent gets an exclusion file, a JSON output path it rewrites every three entries, a time box, and "fewer is fine; never guess an address". Verify every person by searching name plus company. Never trust a profile URL an agent produced.
 6. **Send only with approval.** The founder approves each message, or a named batch. Before each send, check recipient, subject and body. If a send looks like it failed, check Sent before resending. Tag every link with `?ref=<channel>-<variant>`. Log every send.
-7. **Respect the channel's limits** [Field]: personal addresses only; a new domain stays at tens of cold emails a day across all its mailboxes; bounces under ~3%. Put volume where the person answers (often their social network, not email).
+7. **Respect the channel's limits** [Field]: personal addresses only; a new domain stays at tens of cold emails a day across all its mailboxes; bounces under ~3%. Put volume where the person answers (often their social network, not email). For launch sites, directories and communities, pick 3–5 from `../marketing/reference/places-to-post.md`, each with its own `?ref`.
 8. **Check replies twice a day** (morning, late afternoon) and answer within two hours using the reply scripts (TEMPLATES §4). Hourly polling finds nothing and burns attention [Field].
 9. **Every reply moves up one rung.** Write the Advance before answering [Rackham].
 

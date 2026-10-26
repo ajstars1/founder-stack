@@ -1,5 +1,18 @@
 # Changelog
 
+## 3.3.0 (2026-10-26)
+
+- **New `marketing/reference/places-to-post.md`:** about 100 launch sites, directories, review sites,
+  startup databases, regional press outlets and subreddits from
+  [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) (CC0, credited),
+  sorted by who you'll meet there (buyers comparing tools, makers, investors, press, beta
+  testers, app reviewers). Includes a link check dated 26 Oct 2026 that flags moved or unresponsive
+  sites, and a five-rule method for choosing places: match the buyer, use review sites for buyer
+  intent, earn standing first, 3–5 places per launch week with their own `?ref`, launch once per big site.
+- Wired into `/marketing` (founder posts), `/gtm` launch strategy and `/outreach-sprint`. Loaded only
+  when a playbook names it.
+- Spec: optional `reference/` data files.
+
 ## 3.2.0 (2026-10-26)
 
 Lessons from a real founder outreach push (cold email, LinkedIn, community posts, launch sites over

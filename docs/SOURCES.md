@@ -73,6 +73,12 @@ Used for selling in rings (warm first), processize-before-productize, the quick 
 "sell before you launch". The author publishes his own Claude Code skills for the book at
 [slavingia/skills](https://github.com/slavingia/skills); install them for the single-book view.
 
+## Lists
+
+| Used in | Source | License |
+|---|---|---|
+| `marketing/reference/places-to-post.md` | [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) by Matt McCaffrey (placestopostyourstartup.com) | CC0 1.0. founder-stack added the grouping, "best for" notes and a dated link check |
+
 ## Discovery skills
 
 `/customer-discovery`, `/jtbd`, `/value-proposition-canvas`, `/business-model-canvas`, `/where-to-play`,
