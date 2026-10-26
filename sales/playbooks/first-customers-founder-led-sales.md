@@ -4,14 +4,14 @@
 ## Method
 1. **Own the job.** Early selling is product work in front of buyers: each call tests story, segment and price at once. A hired rep can't do it; the story isn't finished [Kazanjy].
 2. **Write the narrative before any collateral.** In order: the problem, who carries it (budget or labour), what it costs them, how they cope today and why that falls short, what changed to make a fix possible, how yours works, your proof, your price. Each step must land before the next. A prospect who rejects step one ends the pitch and saves you both time [Kazanjy].
-3. **List every problem you solve** with its impact and root cause. That list drives your questions, your demo and your targeting [Keenan].
+3. **List every problem you solve** with impact and root cause; it drives questions, demo and targeting [Keenan].
 4. **Pick earlyvangelists:** they have the problem, know it, can pay, and already hacked a workaround. Emotion is the tell [Fitzpatrick].
 5. **Aim at mid-sized accounts.** Tiny ones churn and pay little; giants move slowly and protect incumbents [Kazanjy].
-6. **Sell in rings, closest first.** Ring 1: people who already trust you (friends, former colleagues, cohort-mates). Ring 2: the community you belong to, starting with everyone who has posted or complained about this problem. Ring 3: strangers, cold, one personal note at a time [Lavingia]. Underneath, keep 50–100 fit accounts: pick by fit, then hunt for an intro [Kazanjy]. Cold mechanics: `cold-outreach-and-cadence.md`.
+6. **Sell in rings, closest first.** Ring 1: people who already trust you (friends, former colleagues, cohort-mates). Ring 2: the community you belong to, starting with everyone who has posted or complained about this problem. Ring 3: strangers, cold, one personal note at a time [Lavingia]. Ring 1 gives access first: ask "who do you know who has this problem right now?" and sell only to friends who actually carry the pain [Kazanjy] [Fitzpatrick]. Underneath, keep 50–100 fit accounts: pick by fit, then hunt for an intro [Kazanjy]. Cold mechanics: `cold-outreach-and-cadence.md`.
 7. **Run one meeting shape:** short rapport, discovery, a few narrative slides, a demo tailored to what you heard, proof, price, the ask [Kazanjy]. Open with their world, not your deck [Fitzpatrick].
 8. **Charge from customer one.** Price against today's alternative on a defensible ROI model, under what a manager can sign alone; keep early adopters on their price when you raise it [Kazanjy]. Strategy: `/gtm`.
 9. **End every meeting with a specific next step**, decided before the call [Kazanjy] [Rackham].
-10. **Write everything down.** Any question asked twice becomes a slide, and any objection heard three times goes back into the narrative [Kazanjy].
+10. **Write everything down.** A question asked twice becomes a slide; an objection heard three times changes the narrative [Kazanjy].
 11. **Deliver like you're still selling:** onboard one-to-one; turn promises into a written success plan [Kazanjy] [Ross].
 
 ## Rules of thumb
@@ -24,7 +24,7 @@
 - You're ready to leave this mode when the narrative holds across accounts, you can book your own meetings, and the win rate is steady [Kazanjy].
 
 ## Mistakes
-- Counting friendly pilots at friends' companies as traction, or skipping ring 1 out of embarrassment.
+- Skipping ring 1 out of embarrassment, or selling to friends who don't have the problem and counting it as traction [Kazanjy].
 - Demoing before you understand the buyer's problem.
 - Polishing a deck before the story has survived ten real buyers.
 - Hiring a VP Sales to "add sales" to a motion nobody has proven [Kazanjy].

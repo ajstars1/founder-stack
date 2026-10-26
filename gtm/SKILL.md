@@ -8,7 +8,7 @@ argument-hint: the product and the go-to-market question
 Who to win first, what frame they see you in, how to enter, price, grow and defend. Synthesized from ten GTM books, tested against the founder's own evidence.
 
 ## Start here
-1. Read the venture context if it exists: `discovery/00-CONTEXT.md` and `discovery/LEDGER.md`.
+1. Read the venture context if it exists: `discovery/00-CONTEXT.md`, `discovery/LEDGER.md` and `discovery/FIELD-NOTES.md` (own numbers beat book benchmarks).
    Otherwise ask at most 3 questions: what you sell to whom, stage and evidence so far, the decision at hand.
 2. Place the venture on the stage ladder: **searching** (no repeatable buyer), **one segment working** (references, flattening retention) or **scaling** (several segments, a team to align). Most GTM errors are later-stage tools used too early [Helmer] [Vajre] [Chen] [Moore].
 3. Route with the table below and read only the matching playbook(s). Never more than two.

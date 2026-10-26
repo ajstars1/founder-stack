@@ -8,7 +8,7 @@ argument-hint: the offer, copy or channel problem
 Turns a validated problem into paying customers through the offer, the message, the spread and the growth system. Synthesized from eleven marketing books, each method credited.
 
 ## Start here
-1. Read the venture context if it exists: `discovery/00-CONTEXT.md` and `discovery/LEDGER.md`.
+1. Read the venture context if it exists: `discovery/00-CONTEXT.md`, `discovery/LEDGER.md` and `discovery/FIELD-NOTES.md` (own numbers beat book benchmarks).
    Else ask at most 3 questions: what you sell and to whom, stage and evidence so far, the decision at hand.
 2. Gate before tactics: does a reachable group already want this, and does the product deliver? If not, route to `audience-and-permission` or `/customer-discovery`. Copy can't fix a market problem.
 3. Route with the table below and read only the matching playbook, or two at most.
@@ -24,6 +24,7 @@ Turns a validated problem into paying customers through the offer, the message, 
 | "People nod and forget." "We explain it like engineers." "Our pitch doesn't change anything." | `playbooks/sticky-messages.md` |
 | "Nobody talks about us." "Should we pay for referrals?" "We went viral and sales didn't move." | `playbooks/word-of-mouth-and-virality.md` |
 | "Which channel should we use?" "Nothing works." "Our one good channel gets worse every quarter." | `playbooks/channel-selection.md` |
+| "Our posts get likes, not leads." "The community removed our post." "Should we post on Reddit or a launch site?" | `playbooks/founder-posts-and-communities.md` |
 | "Do we have product/market fit?" "We have too many growth ideas." "Can we scale spend yet?" | `playbooks/growth-experiments.md` |
 | "Users sign up and never come back." "They never reach the point where it clicks." "Members churn in month three." | `playbooks/activation-and-retention.md` |
 | "Is this countdown, scarcity claim or notification over the line?" "Buyers regret it." | `playbooks/ethical-persuasion.md` |
@@ -42,12 +43,14 @@ Turns a validated problem into paying customers through the offer, the message, 
 8. Remove effort before the first reward. Ask for effort after it [Eyal] [Ellis] [Sutherland].
 9. Believe behaviour over opinion. Money, usage and clicks outrank what people say [Sutherland] [Ellis] [Weinberg].
 10. Every channel and claim wears out, so keep a pipeline of tests [Weinberg] [Schwartz].
+11. Earn before you ask: be useful where your buyers gather before asking them for anything [Godin] [Cialdini] [Weinberg].
 
 ## When the experts disagree
 | Tension | Go with A when… | Go with B when… |
 |---|---|---|
 | Hard offer with enhancers [Hormozi] vs. patient permission [Godin] | Desire exists, results show within weeks, and the sale is 1:1 services or local | You're asking for new behaviour, repeat trust is the asset, or the crowd isn't hungry yet. Godin picks who, then Hormozi packages the offer |
 | Data-led testing [Ellis] vs. psycho-logic [Sutherland] | The decision has high traffic and fast feedback: onboarding, pricing pages, invites | You're generating ideas, or the effects lag (trust, brand, signalling). Run them as protected moonshots with holdouts |
+| Reach everyone, stay on air [Sharp] vs. smallest viable audience [Godin] | Known category and buyers; the job is staying remembered. Keep a steady rhythm, never go dark | Early and unknown: win one peer group first; borrow only Sharp's consistency |
 | Channels from day one [Weinberg] vs. loops after must-have [Ellis] | You're pre-fit and channel tests are cheap research, or the product is sold through outside channels (sales, BD, events) | You're post-fit and usage recruits the next user |
 | Lead with the core claim [Heath] vs. delay it [Schwartz] | The audience has context: staff, investors, a first-to-market claim | The market is cold, sceptical or saturated. Lead with identity or mechanism and land the claim later |
 | Remove friction [Eyal] [Ellis] vs. add effort [Sutherland] [Hormozi] | It's before the first reward | It's after the reward, or you need to filter out free-lead tourists |
@@ -66,10 +69,9 @@ Every answer ends with:
 Web-search only for current, external facts: competitor offers and ads, CPMs and CPCs, platform ad rules, consumer and subscription law, market data. Cite as `[FACT — url, date]`. Never web-search for "what the books say"; the playbooks are the method. No source → `[UNKNOWN]` plus a research step. The books are thin on SEO, modern paid social, AI search, B2B demand generation and India-specific distribution (vernacular, WhatsApp, cash on delivery): say so and research rather than guess.
 
 ## Hand-offs
-- Before: `/problem-discovery`, `/customer-discovery` and `/jtbd` (is the pain real), `/where-to-play` (which market), `/value-proposition-canvas` (fit).
-- Positioning, price levels, packaging and PLG belong to `/gtm`. Company or product names, brand messaging and distinctive assets belong to `/branding`. Turning leads into closed deals belongs to `/sales`.
-- After: `/experiments` (test cards), `/facts-assumptions-unknowns` (ledger), `/business-model-canvas` (unit economics), `/startup-scorecard`.
-- Lost: `/founder-stack` routes. Learning a framework: `/learn`.
+- Before: `/problem-discovery`, `/customer-discovery`, `/jtbd`, `/where-to-play`, `/value-proposition-canvas`.
+- Elsewhere: positioning, price and PLG `/gtm`; names and brand messaging `/branding`; leads to closed deals `/sales`; running a push `/outreach-sprint`.
+- After: `/experiments`, `/facts-assumptions-unknowns`, `/business-model-canvas`, `/startup-scorecard`. Lost: `/founder-stack`. Learning: `/learn`.
 
 ## Go deeper (optional)
 If the `business-books` MCP is connected, `search_library` / `read_passage` give the original passages behind a playbook. Not required.

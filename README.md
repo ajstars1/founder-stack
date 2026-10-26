@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-F2A65A"></a>
-  <img alt="16 skills" src="https://img.shields.io/badge/skills-16-F2A65A">
-  <img alt="46 playbooks" src="https://img.shields.io/badge/playbooks-46-F2A65A">
+  <img alt="17 skills" src="https://img.shields.io/badge/skills-17-F2A65A">
+  <img alt="48 playbooks" src="https://img.shields.io/badge/playbooks-48-F2A65A">
   <img alt="39 books" src="https://img.shields.io/badge/sources-39%20books-F2A65A">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-skills%20%2B%20plugin-E8684A">
 </p>
@@ -36,7 +36,7 @@ thousands of pages, and the authors often disagree with each other.
 
 ## founder-stack makes Claude answer like someone who has read them all
 
-- **46 playbooks, each built around a founder problem.** Each one solves a single problem, such as
+- **48 playbooks, each built around a founder problem.** Each one solves a single problem, such as
   "deals go dark after the demo", "nobody remembers us" or "our offer doesn't convert". It combines
   the strongest method from 2–5 books and credits every step to its author.
 - **The experts' disagreements are written down.** Sharp or Neumeier? Challenger or SPIN? Hormozi
@@ -103,9 +103,10 @@ Sales combined). It reads two files and answers:
 | **`/founder-stack`** | Router. Takes your situation, picks the right skill, keeps the Belief Ledger, chains skills from idea to scale | n/a |
 | **`/gtm`** | Go-to-market strategy | positioning · category design · beachhead & chasm · launch strategy · pricing & packaging · product-led growth · marketplace cold start · platform design · growth model · GTM motion & scaling · moats · JTBD for GTM |
 | **`/branding`** | Brand strategy | brand foundation · differentiation vs distinctiveness · distinctive assets · naming · messaging & BrandScript · archetypes · community · brand architecture · rebrand decision · brand audit |
-| **`/marketing`** | Demand and growth | offer design · lead magnets · money model · copywriting & headlines · sticky messages · word of mouth · channel selection · growth experiments · activation & retention · ethical persuasion · audience & permission · reframing |
-| **`/sales`** | Founder-led B2B sales | first customers · ICP & lists · cold outreach · discovery calls · Mom Test conversations · demo & pitch · objections · stalled deals · negotiation · investor pitch · pipeline · sales team |
+| **`/marketing`** | Demand and growth | offer design · lead magnets · money model · copywriting & headlines · sticky messages · word of mouth · channel selection · growth experiments · activation & retention · ethical persuasion · audience & permission · reframing · founder posts & communities |
+| **`/sales`** | Founder-led B2B sales | first customers · ICP & lists · first-ask design · cold outreach · discovery calls · Mom Test conversations · demo & pitch · objections · stalled deals · negotiation · investor pitch · pipeline · sales team |
 | **Discovery** | Find a problem worth solving | `/where-to-play` · `/problem-discovery` · `/customer-discovery` · `/jtbd` · `/value-proposition-canvas` · `/business-model-canvas` · `/experiments` · `/secondary-research` · `/facts-assumptions-unknowns` · `/startup-scorecard` |
+| **`/outreach-sprint`** | Run the push | daily math, warm rings, agent target research, approval-gated sends, follow-up calendar, reply scripts, scoreboard, retro into `discovery/FIELD-NOTES.md` |
 | **`/learn`** | Tutor | short lessons applied to your venture, with spaced-repetition quizzes |
 
 ### How the pieces connect

@@ -8,7 +8,7 @@ argument-hint: the brand, name or message question
 Make a young company easy to notice, remember, explain and believe in. Grounded in nine branding books, reconciled into decisions; positioning itself belongs to `/gtm`.
 
 ## Start here
-1. Read the venture context if it exists: `discovery/00-CONTEXT.md` and `discovery/LEDGER.md`.
+1. Read the venture context if it exists: `discovery/00-CONTEXT.md`, `discovery/LEDGER.md` and `discovery/FIELD-NOTES.md` (own numbers beat book benchmarks).
    Else ask at most 3 questions (what/for whom, stage + evidence so far, the decision at hand).
 2. Route with the table below, read only the matching playbook(s). If the founder cannot say who
    the product is for, what buyers use instead today, and why they would switch, send them to

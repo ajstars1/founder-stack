@@ -8,8 +8,8 @@ argument-hint: the deal, prospect or sales problem
 Founder-run selling from first paid customer to first sales hire, synthesized from nine sales books; buyer signals graded E0–E4.
 
 ## Start here
-1. Read the venture context if it exists: `discovery/00-CONTEXT.md` and `discovery/LEDGER.md`.
-   Else ask at most 3 questions: what you sell, to whom and at what deal size; paying customers and evidence so far; the deal or decision at hand.
+1. Read the venture context if it exists: `discovery/00-CONTEXT.md`, `discovery/LEDGER.md` and `discovery/FIELD-NOTES.md` (own numbers beat book benchmarks).
+   Else ask at most 3 questions: what you sell, to whom and at what deal size; paying customers and evidence so far; the deal or decision at hand. If you can't ask, state your assumptions and go on.
 2. Name the stage: **learning** (no paying customers), **proving** (founder closes, not yet repeatable) or **scaling** (steady win rate, hiring). Most bad sales advice is good advice at the wrong stage.
 3. Route with the table below. Read only the matching playbook(s), two at most.
    If two rows fit, pick the one matching the buyer's or user's latest *action*, not their words. Name other relevant playbooks; don't read them.
@@ -18,9 +18,10 @@ Founder-run selling from first paid customer to first sales hire, synthesized fr
 | The founder says / needs | Playbook |
 |---|---|
 | "First 10 customers, and nobody here has sold" | `playbooks/first-customers-founder-led-sales.md` |
-| "Lots of cold outreach, zero replies" / "we need a yes this week" | `playbooks/first-customers-founder-led-sales.md` (rings), then `playbooks/cold-outreach-and-cadence.md` |
+| "Cold outreach gets zero replies" / "they accept on LinkedIn but never answer" | `playbooks/first-ask-design.md`, then `playbooks/cold-outreach-and-cadence.md` |
+| "We need a yes this week" | `playbooks/first-customers-founder-led-sales.md` (rings). To run the push day by day: `/outreach-sprint` |
 | "Who should we even be calling?" / "build me a lead list" | `playbooks/icp-and-prospect-lists.md` |
-| "Cold emails get no replies" / "write my outreach sequence" | `playbooks/cold-outreach-and-cadence.md` |
+| "Write my outreach sequence" / "how many follow-ups, which channel?" | `playbooks/cold-outreach-and-cadence.md` |
 | "Everyone says they love it, then nobody buys" | `playbooks/customer-conversations-mom-test.md` |
 | "Prep my discovery call" / "they admit the pain, no urgency" | `playbooks/discovery-calls.md` |
 | "Our demo is a feature tour" / "all vendors look the same to them" | `playbooks/demo-and-pitch.md` |
@@ -36,15 +37,16 @@ Founder-run selling from first paid customer to first sales hire, synthesized fr
 
 ## Principles
 1. Score meetings by what the buyer agrees to do next, not what they say; plan each call around one Advance [Rackham] [Fitzpatrick] [Keenan].
-2. The problem sells, not the product: diagnose, size the gap, show only what closes it [Keenan] [Rackham].
-3. Diagnose before you present; price comes after the buyer says they want to buy [Kazanjy] [Ross].
-4. Earn credibility as the expert on their problem; rapport follows useful selling, it doesn't cause it [Dixon] [Keenan].
-5. Narrow hard and disqualify early; bad-fit accounts are the costliest early mistake [Kazanjy] [Ross].
-6. Most of the decision happens without you: arm a champion, map everyone who can say no [Dixon] [Voss] [Rackham].
-7. Prevent objections; most come from offering solutions before the need is built [Rackham] [Voss].
-8. Trade every concession, make each one smaller than the last, and never meet in the middle [Voss] [Kazanjy] [Dixon].
-9. Prove the motion yourself before you hire anyone to repeat it [Kazanjy] [Ross].
-10. Treat effect sizes as directional; most come from the authors' own firms (Huthwaite, CEB, Tethr).
+2. Size the ask to the trust you've earned: from a stranger, a reply; then one rung per touch, gift first [Cialdini] [Kazanjy] [Rackham].
+3. The problem sells, not the product: diagnose, size the gap, show only what closes it [Keenan] [Rackham].
+4. Diagnose before you present; price comes after the buyer says they want to buy [Kazanjy] [Ross].
+5. Earn credibility as the expert on their problem; rapport follows useful selling, it doesn't cause it [Dixon] [Keenan].
+6. Narrow hard and disqualify early; bad-fit accounts are the costliest early mistake [Kazanjy] [Ross].
+7. Most of the decision happens without you: arm a champion, map everyone who can say no [Dixon] [Voss] [Rackham].
+8. Prevent objections; most come from offering solutions before the need is built [Rackham] [Voss].
+9. Trade every concession, make each one smaller than the last, and never meet in the middle [Voss] [Kazanjy] [Dixon].
+10. Prove the motion yourself before you hire anyone to repeat it [Kazanjy] [Ross].
+11. Treat effect sizes as directional; most come from the authors' own firms (Huthwaite, CEB, Tethr).
 
 ## When the experts disagree
 | Tension | Go with A when… | Go with B when… |
@@ -70,17 +72,14 @@ Every answer ends with:
 Web-search only for current, external facts (competitors, prices, CPMs, trademark/domain
 availability, platform rules, market data). Cite URL + date as `[FACT — url]`. Never web-search
 for "what the books say"; the playbooks are the method. No source → `[UNKNOWN]` + research step.
-In sales this includes deliverability and anti-spam/privacy law.
 
 ## Beyond the books
-The sources are US B2B, 1980s–2010s. Product-led sales, security reviews and MSAs, partner channels, AI-written outreach, services firms and relationship-first or WhatsApp-first markets (much of India) fall outside them: say so, adapt, and log the adaptation as an assumption. In relationship-first markets, start with rings 1–2 [Lavingia].
+The sources are US B2B, 1980s–2010s. Product-led sales, security reviews and MSAs, partner channels, AI-written outreach, services firms and relationship-first or WhatsApp-first markets (much of India) fall outside them: say so, adapt, and log the adaptation as an assumption. In relationship-first markets, start with warm rings (`first-customers-founder-led-sales.md`) [Lavingia].
 
 ## Hand-offs
-- Before: `/customer-discovery` (interviews), `/problem-discovery`, `/jtbd`, `/value-proposition-canvas` (what the gap is made of).
-- Owned elsewhere: positioning and pricing → `/gtm`; offers, copy, landing pages → `/marketing`; names and voice → `/branding`.
-- Alongside: `/secondary-research` (account data, competitor prices), `/experiments` (outreach, pilot and price tests), `/where-to-play` (which segment first).
-- After: `/facts-assumptions-unknowns` (log deltas), `/business-model-canvas` (CAC, cost of sales, channels), `/startup-scorecard`.
-- `/learn` to be taught a method; `/founder-stack` if it isn't a sales problem.
+- Before: `/customer-discovery`, `/problem-discovery`, `/jtbd`, `/value-proposition-canvas`.
+- Elsewhere: positioning, pricing and launch timing (Product Hunt, launch sites) `/gtm`; offers and copy `/marketing`; names and voice `/branding`; running the push day by day `/outreach-sprint`.
+- Alongside/after: `/secondary-research`, `/experiments`, `/facts-assumptions-unknowns`, `/business-model-canvas`, `/startup-scorecard`, `/learn`.
 
 ## Go deeper (optional)
 If the `business-books` MCP is connected, `search_library` / `read_passage` give the original

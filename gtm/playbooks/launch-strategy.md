@@ -31,7 +31,7 @@
 - A loud launch before validation only amplifies a guess. A quiet product after validation lets someone else frame the space. Ries and Ramadan are describing different phases, not disagreeing.
 - **Go loud when:** E3–E4 evidence exists in a segment, the offer is different in kind, rivals are circling, and buyers need educating.
 - **Stay quiet when:** cohorts still decay, the whole product is incomplete, or the network hasn't tipped.
-- Community launches (launch sites, forums, newsletters) are experiments, not strikes. Judge them by the retention of the cohort they bring, not by upvotes [Ries].
+- Community launches (launch sites, forums, newsletters) are experiments, not strikes. Judge them by the retention of the cohort they bring, not by upvotes [Ries]. Most let you launch once: hold them until visitors can try the product themselves and you have paying users willing to be quoted. Run a must-have survey first; under the bar means not yet [Ellis]. Directory listings mostly buy backlinks [Field].
 - For PLG, the public sign-up *is* the launch. Fix onboarding before you send traffic (`product-led-growth.md`) [Bush].
 - **AI-era note (inference):** cheap building makes MVPs faster and the market noisier. The validation bar hasn't moved, but the strike has to work harder to be noticed.
 

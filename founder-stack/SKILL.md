@@ -33,7 +33,7 @@ skills. This file decides which ones to load.
 
 ## Start every session
 
-1. If `discovery/00-CONTEXT.md` exists, read it and start from its **OPEN LOOP**. Don't re-analyze.
+1. If `discovery/00-CONTEXT.md` exists, read it and start from its **OPEN LOOP**. Don't re-analyze. Skim `discovery/FIELD-NOTES.md` if present.
 2. Otherwise run intake:
    - a one-line description
    - what has been done (interviews, launches, revenue)
@@ -57,6 +57,7 @@ skills. This file decides which ones to load.
 | Naming, brand strategy, messaging, website words, rebrand, brand personality | `/branding` |
 | Offer, copy, headlines, channels, virality, growth experiments, retention | `/marketing` |
 | Prospecting, outreach, discovery calls, demos, objections, stalled deals, negotiation, fundraising pitch, sales hiring | `/sales` |
+| "Run outreach for us" / "we need customers by <date>" / a push already under way | `/outreach-sprint` (it pulls method from `/sales` and `/marketing`) |
 | "Should we pivot?" / "how are we doing?" | `/startup-scorecard` + ledger review |
 | "Should I build / hire / spend on / launch X?" | **Quick decision check** below; route on only if it fails |
 | A test or interview result | `/experiments` or `/customer-discovery` debrief → ledger delta |
@@ -74,7 +75,7 @@ Gate each step on evidence, not enthusiasm. Skip any step the ledger already set
 2. **Problem → solution worth paying for:** `/jtbd` → `/value-proposition-canvas` →
    `/experiments`. Gate: E3 commitments from 3 or more.
 3. **Solution → first revenue:** `/gtm` (positioning, beachhead, pricing) → `/branding` (name and
-   one-liner) → `/sales` (first-customers). Gate: E4 from paying customers.
+   one-liner) → `/sales` (first-customers) → `/outreach-sprint` (run it). Gate: E4 from paying customers.
 4. **First revenue → repeatable growth:** `/marketing` (offer, channel, retention) → `/gtm`
    (growth model) → `/sales` (pipeline, first hires). Gate: retention holds and one channel works
    at a known cost.
@@ -107,6 +108,7 @@ Two or more weak answers: shrink it to a test card (`/experiments`). Log the cal
   research.
 - **Persist:**
   - `discovery/LEDGER.md`
+  - `discovery/FIELD-NOTES.md`: one dated line per channel result, with n (format: `/outreach-sprint` TEMPLATES §6)
   - `discovery/00-CONTEXT.md`, with the OPEN LOOP updated (template in TEMPLATES.md §4)
   - debriefs in `discovery/interviews/` and `discovery/experiments/`
 - Close with: *what are the two biggest risks right now, and what evidence do we need next?*

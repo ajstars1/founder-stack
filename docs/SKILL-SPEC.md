@@ -5,7 +5,7 @@ skill has the same shape so the router, the learner, and the ledger work the sam
 
 ```
 <domain>/
-  SKILL.md          # always loaded when the skill triggers. 700–1,100 words.
+  SKILL.md          # always loaded when the skill triggers. 700–1,200 words.
   playbooks/*.md    # loaded on demand, 1–2 per request. 350–900 words each.
 ```
 
@@ -24,7 +24,7 @@ description: <≤ 45 words: what it does + trigger phrases. Loaded into every se
 <one line: what this skill is for and what it is grounded in>
 
 ## Start here
-1. Read the venture context if it exists: `discovery/00-CONTEXT.md` and `discovery/LEDGER.md`.
+1. Read the venture context if it exists: `discovery/00-CONTEXT.md`, `discovery/LEDGER.md` and `discovery/FIELD-NOTES.md` (the founder's own results; they outrank book benchmarks).
    Else ask at most 3 questions (what/for whom, stage + evidence so far, the decision at hand).
 2. Route with the table below, read only the matching playbook(s).
    If two rows fit, pick the one matching the buyer's or user's latest *action*, not their words. Name other relevant playbooks; don't read them.
@@ -88,7 +88,7 @@ passages behind a playbook. Not required.
 1. **Own words only.** Synthesize; never copy sentences or close-paraphrase passages. Named
    frameworks and terms of art (e.g. "Grand Slam Offer", "SPIN", "accusation audit") are fine.
    No quotations from books. `bizbooks overlap` must report nothing.
-2. **Credit every framework** with a short tag: `[Dunford]`, `[Sharp]`, `[Voss]`. Full
+2. **Credit every framework** with a short tag: `[Dunford]`, `[Sharp]`, `[Voss]`. Lessons from real founder practice that no book covers (deliverability, platform rules, agent operations) are tagged `[Field]`: state them as conditions to test, never as laws, and keep them out of Principles. Full
    bibliography lives in `docs/SOURCES.md`. No page numbers.
 3. **Synthesize across books, don't summarize books.** A playbook answers a founder problem; it
    picks the strongest method, notes where sources differ, and says when to choose which.
