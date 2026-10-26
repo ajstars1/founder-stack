@@ -1,29 +1,30 @@
 # Win your first 10 customers yourself
-**Use when:** 0–10 paying customers, the founder sells, nobody on the team has sold before.  ·  **Sources:** Founding Sales (Kazanjy), The Mom Test (Fitzpatrick), Gap Selling (Keenan), Predictable Revenue (Ross)
+**Use when:** 0–10 paying customers, the founder sells, nobody on the team has sold before.  ·  **Sources:** Founding Sales (Kazanjy), The Mom Test (Fitzpatrick), Gap Selling (Keenan), Predictable Revenue (Ross), The Minimalist Entrepreneur (Lavingia)
 
 ## Method
-1. **Own the job.** Early selling is product work done in front of buyers: every call tests the story, the segment and the price at once. A hired rep can't do it, because the story isn't finished yet [Kazanjy].
-2. **Write the narrative before any collateral.** In order: the problem, who carries it (budget or labour), what it costs them, how they cope today and why that falls short, what changed to make a fix possible, how yours works, your proof, your price. Each step must land before the next one makes sense. A prospect who rejects step one ends the pitch, and that saves you both time [Kazanjy].
+1. **Own the job.** Early selling is product work in front of buyers: each call tests story, segment and price at once. A hired rep can't do it; the story isn't finished [Kazanjy].
+2. **Write the narrative before any collateral.** In order: the problem, who carries it (budget or labour), what it costs them, how they cope today and why that falls short, what changed to make a fix possible, how yours works, your proof, your price. Each step must land before the next. A prospect who rejects step one ends the pitch and saves you both time [Kazanjy].
 3. **List every problem you solve** with its impact and root cause. That list drives your questions, your demo and your targeting [Keenan].
-4. **Pick earlyvangelists.** They have the problem, know it, can find the money, and have already hacked together a workaround. Their emotion is the tell [Fitzpatrick].
+4. **Pick earlyvangelists:** they have the problem, know it, can pay, and already hacked a workaround. Emotion is the tell [Fitzpatrick].
 5. **Aim at mid-sized accounts.** Tiny ones churn and pay little; giants move slowly and protect incumbents [Kazanjy].
-6. **Build 50–100 target accounts.** Warm paths first, then outbound (`cold-outreach-and-cadence.md`). Choose accounts by fit, then hunt for an intro. Never the reverse [Kazanjy].
+6. **Sell in rings, closest first.** Ring 1: people who already trust you (friends, former colleagues, cohort-mates). Ring 2: the community you belong to, starting with everyone who has posted or complained about this problem. Ring 3: strangers, cold, one personal note at a time [Lavingia]. Underneath, keep 50–100 fit accounts: pick by fit, then hunt for an intro [Kazanjy]. Cold mechanics: `cold-outreach-and-cadence.md`.
 7. **Run one meeting shape:** short rapport, discovery, a few narrative slides, a demo tailored to what you heard, proof, price, the ask [Kazanjy]. Open with their world, not your deck [Fitzpatrick].
-8. **Charge from customer one.** Price against what they use today on a defensible ROI model. Stay under the amount a manager can sign off alone, and keep early adopters on their price when you raise it [Kazanjy]. Price strategy lives in `/gtm`.
-9. **Ask for a specific next step at the end of every meeting** [Kazanjy] [Rackham]. Decide what to ask for before the call.
+8. **Charge from customer one.** Price against today's alternative on a defensible ROI model, under what a manager can sign alone; keep early adopters on their price when you raise it [Kazanjy]. Strategy: `/gtm`.
+9. **End every meeting with a specific next step**, decided before the call [Kazanjy] [Rackham].
 10. **Write everything down.** Any question asked twice becomes a slide, and any objection heard three times goes back into the narrative [Kazanjy].
-11. **Deliver like you're still selling.** Onboard one-to-one, and turn the promises you made into a written success plan [Kazanjy] [Ross].
+11. **Deliver like you're still selling:** onboard one-to-one; turn promises into a written success plan [Kazanjy] [Ross].
 
 ## Rules of thumb
 - A 20–30% win rate on qualified deals is healthy. A much higher rate usually means you sell only to friends or qualify too tightly [Kazanjy].
 - If buyers take fewer than half your proposals, you're sending them too early. Make buyers earn one with a scoping conversation [Ross].
 - Introduce one new thing at a time. A new category plus an unfamiliar pricing model doubles the buyer's risk [Kazanjy].
-- Free work "for the logo" teaches you nothing about willingness to pay. Run a paid or success-priced pilot instead.
+- Free work "for the logo" teaches you nothing about willingness to pay. Run a paid or success-priced pilot; even a small price changes the signal [Lavingia].
+- Need a yes this week? Go to ring 1 or 2. Cold replies mostly arrive days later, after the second touch. Ring-1 money is real E4 but not independent evidence of demand.
 - Do 3–5 conversations in one tight segment and you should start hearing the same things. Still scattered after 10 means the segment is too broad [Fitzpatrick].
 - You're ready to leave this mode when the narrative holds across accounts, you can book your own meetings, and the win rate is steady [Kazanjy].
 
 ## Mistakes
-- Counting friendly pilots at friends' companies as traction.
+- Counting friendly pilots at friends' companies as traction, or skipping ring 1 out of embarrassment.
 - Demoing before you understand the buyer's problem.
 - Polishing a deck before the story has survived ten real buyers.
 - Hiring a VP Sales to "add sales" to a motion nobody has proven [Kazanjy].
@@ -43,7 +44,11 @@ Proof we have: ____________ [F#/A#, E_]   Price + basis: ____________ [A#]
 EARLYVANGELIST CHECK (per account)
 | Account | Has problem | Knows it | Can pay | Built a workaround | Emotion seen |
 
-TARGETS: 50 accounts | warm paths: __ | cold: __
+RINGS: ring 1 (trust) __ names | ring 2 (community) __ | ring 3 (cold) __
+
+DAILY MATH
+Revenue goal __ ÷ price __ = customers __ ÷ business days left __ = closes/day __
+Closes/day ÷ win rate __ = qualified meetings/day __ ÷ reply rate __ = touches/day __
 
 MEETING PLAN
 Ask I'll make at the end: ____________ (named person, action, date)
@@ -58,5 +63,5 @@ Objection heard 3× → narrative change: ____________
 ## Validate it
 - **Assumption created:** "Segment S buys outcome O at price P through founder sales" (`A#`, `[ASSUMPTION, E0]`).
 - **Cheapest test:** 10 qualified meetings with the same narrative over 2–3 weeks, each ending in a pre-planned ask.
-- **Evidence bar:** a meeting that ends in a compliment is E0. Their story of the last time the problem hit is E1. A shown spreadsheet or workaround is E2. A dated next step with the budget holder, or a pilot with written success criteria, is E3. A paid pilot or contract is E4. Working-validated needs E3 from ≥3 independent accounts. Price stays an assumption until E4.
+- **Evidence bar:** compliment E0 · story of the last time it hurt E1 · shown workaround E2 · dated next step with the budget holder, or a pilot with written success criteria E3 · paid pilot E4. Validated needs E3 from ≥3 independent accounts; price stays an assumption until E4.
 - Log each meeting's ending grade. Interview prep and debriefs go to `/customer-discovery`, pilot design to `/experiments`.

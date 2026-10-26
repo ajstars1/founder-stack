@@ -63,6 +63,16 @@ Matthew Dixon books, *The Challenger Sale* and *The JOLT Effect*; the framework 
 | [Dixon] | *The JOLT Effect* | Matthew Dixon, Ted McKenna |
 | [Fitzpatrick] | *The Mom Test* | Rob Fitzpatrick |
 
+## Cross-cutting
+
+| Tag | Book | Author(s) |
+|---|---|---|
+| [Lavingia] | *The Minimalist Entrepreneur* | Sahil Lavingia |
+
+Used for selling in rings (warm first), processize-before-productize, the quick decision check and
+"sell before you launch". The author publishes his own Claude Code skills for the book at
+[slavingia/skills](https://github.com/slavingia/skills); install them for the single-book view.
+
 ## Discovery skills
 
 `/customer-discovery`, `/jtbd`, `/value-proposition-canvas`, `/business-model-canvas`, `/where-to-play`,

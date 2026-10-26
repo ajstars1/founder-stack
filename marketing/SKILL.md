@@ -1,6 +1,7 @@
 ---
 name: marketing
 description: "Marketing for founders: offers, lead magnets, upsells, continuity, headlines, copy, sticky messages, word of mouth, referrals, channel tests, growth experiments, activation, retention, ethical persuasion. Use for \"offer\", \"copy\", \"ads don't pay back\", \"nobody shares\", \"churn\", \"which channel\"."
+argument-hint: the offer, copy or channel problem
 ---
 
 # Marketing

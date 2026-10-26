@@ -1,6 +1,7 @@
 ---
 name: branding
 description: Brand strategy for founders. Covers what the brand stands for, differentiation vs distinctiveness, naming, messaging and one-liners, personality, community, sub-brands and rebrands. Use for "name our startup", "our message is confusing", "should we rebrand", "nobody remembers us", "brand strategy".
+argument-hint: the brand, name or message question
 ---
 
 # Branding

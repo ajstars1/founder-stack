@@ -46,3 +46,16 @@ Instrument referral chains: who forwarded to whom, and what hooked them (their w
 |---|---|---|---|---|---|---|---|
 
 A concierge that proves demand but loses money per order proved demand, not a business → `/business-model-canvas`.
+
+## 5. Manual runbook (processize before you productize [Lavingia])
+
+```
+OFFER IN ONE LINE: customer gives __________, gets back __________ within ____
+TRIGGER: what starts a delivery (form, email, DM) ____________________
+STEPS (verbs a stranger could follow; no "process the request"):
+| # | Step | Tool | Minutes | Could a script do it? |
+HANDOFF: how the result reaches the customer ____________
+PRICE: ____ per delivery | cost-to-serve ____ | minutes per delivery ____
+AUTOMATE WHEN: ≥10 paid deliveries · steps unchanged for 2+ weeks · delivery time > selling time
+AUTOMATE FIRST: the step with the most minutes ____________
+```

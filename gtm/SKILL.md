@@ -1,6 +1,7 @@
 ---
 name: gtm
 description: "Go-to-market for founders: positioning, category design, beachhead and chasm, launch sequencing, pricing, PLG, marketplace cold start, platforms, growth models, scaling the motion, moats. Use for \"how do we position, launch, price or grow this\", \"who first\", \"why isn't it selling\"."
+argument-hint: the product and the go-to-market question
 ---
 
 # GTM
@@ -47,7 +48,7 @@ Who to win first, what frame they see you in, how to enter, price, grow and defe
 | Tension | Go with A when… | Go with B when… |
 |---|---|---|
 | Existing frame [Dunford] vs new category [Ramadan] | Seed stage, little cash, and an existing category or subsegment can explain the product | A real shift, no budget line yet, a product different in kind, and money for several concentrated pushes |
-| Quiet testing [Ries] vs lightning strike [Ramadan] | Value is unproven; loud would amplify a guess | Value is proven in a segment and the market must learn the problem. Sequential, not rivals |
+| Quiet testing [Ries] [Lavingia] vs lightning strike [Ramadan] | Value is unproven, or fewer than ~100 paying customers: sell one by one and launch later as a thank-you | Value is proven in a segment and the market must learn the problem. Sequential, not rivals |
 | Beachhead by pain [Moore] vs by density [Chen] | Value comes from the product plus a whole product sold to institutions | Value comes from other users. Bottom-up B2B needs both: a dense team inside a pained segment |
 | Price off competitors [Moore] vs off value [Bush] | Checking a price before selling to mainstream pragmatists | Setting the price in the first place. Set it with Bush, then sanity-check it with Moore |
 | Winner-take-all [Ramadan] [Helmer] vs many winners [Chen] | Parker's conditions hold: supply-side scale, strong network effects, costly multihoming, little room for niches [Parker] | Markets are local, fragmented or niche-rich. Plan for several winners |

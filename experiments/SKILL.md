@@ -20,7 +20,7 @@ description: Design and grade validation experiments (price tests, concierge MVP
 
 ## The core test menu (pick the cheapest that can move the belief)
 
-- **Concierge / manual service** — deliver the service by hand, no software; real transactions (E4) at near-zero build cost. Usually the strongest first test for service businesses; instrument every delivery (time, distance, cost-to-serve, order value).
+- **Concierge / manual service** — deliver the service by hand, no software; real transactions (E4) at near-zero build cost. Usually the strongest first test for service businesses; instrument every delivery (time, distance, cost-to-serve, order value). Write the delivery down as a runbook someone else could follow (TEMPLATES §5); automate only once 10+ paid deliveries ran on unchanged steps, slowest step first [Lavingia].
 - **Price test** — quote a real, named, refusable price to real prospects at the moment of intent. Track accept/negotiate/decline by level. Visible surcharges beat bundled costs — you learn nothing from a price nobody can refuse. (E4)
 - **Pre-sale / deposit / LOI** — money or signed intent before the thing exists. (E4/E3)
 - **Smoke test / landing page / forwardable offer card** — a real call-to-action into a channel; measure who acts, not who likes. (E2–E3)

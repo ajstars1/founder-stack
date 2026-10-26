@@ -1,6 +1,7 @@
 ---
 name: founder-stack
 description: Router for the founder-stack skills, from idea and customer discovery through GTM, branding, marketing and sales. Use for multi-step business help ("help me launch", "where do I start", "what next"), venture reviews, or when unsure which founder skill fits.
+argument-hint: what you are working on or deciding
 ---
 
 # founder-stack — router
@@ -57,6 +58,7 @@ skills. This file decides which ones to load.
 | Offer, copy, headlines, channels, virality, growth experiments, retention | `/marketing` |
 | Prospecting, outreach, discovery calls, demos, objections, stalled deals, negotiation, fundraising pitch, sales hiring | `/sales` |
 | "Should we pivot?" / "how are we doing?" | `/startup-scorecard` + ledger review |
+| "Should I build / hire / spend on / launch X?" | **Quick decision check** below; route on only if it fails |
 | A test or interview result | `/experiments` or `/customer-discovery` debrief → ledger delta |
 | "Teach me…" / "quiz me…" | `/learn` |
 
@@ -78,6 +80,16 @@ Gate each step on evidence, not enthusiasm. Skip any step the ledger already set
    at a known cost.
 5. **Scale and defend:** `/gtm` (moats, motion) · `/branding` (architecture) ·
    `/startup-scorecard`.
+
+## Quick decision check (one decision, five minutes)
+
+Answer each with evidence, not hope, then call it **do / shrink / don't**:
+1. Which customer asked for it, and at what grade? Under E2 means you're guessing.
+2. Could it be done by hand, or with time instead of money, first? [Lavingia]
+3. What is the smallest version you could ship this week?
+4. Can it be undone? Leases, hires, equity and public launches mostly can't; demand E3+ for those.
+5. Does it bring the next paying customer closer, or only feel like progress?
+Two or more weak answers: shrink it to a test card (`/experiments`). Log the call with a reopen condition.
 
 ## Modes
 

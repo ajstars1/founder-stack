@@ -1,6 +1,7 @@
 ---
 name: sales
 description: Founder-led B2B sales, first customer to first sales hire. Covers ICP, outreach, discovery, demos, objections, stalled deals, negotiation, investor pitches, pipeline and hiring. Use for "how do I sell this", "nobody replies", "the deal went dark", "they want a discount", "should I hire a salesperson".
+argument-hint: the deal, prospect or sales problem
 ---
 
 # Sales
@@ -17,6 +18,7 @@ Founder-run selling from first paid customer to first sales hire, synthesized fr
 | The founder says / needs | Playbook |
 |---|---|
 | "First 10 customers, and nobody here has sold" | `playbooks/first-customers-founder-led-sales.md` |
+| "Lots of cold outreach, zero replies" / "we need a yes this week" | `playbooks/first-customers-founder-led-sales.md` (rings), then `playbooks/cold-outreach-and-cadence.md` |
 | "Who should we even be calling?" / "build me a lead list" | `playbooks/icp-and-prospect-lists.md` |
 | "Cold emails get no replies" / "write my outreach sequence" | `playbooks/cold-outreach-and-cadence.md` |
 | "Everyone says they love it, then nobody buys" | `playbooks/customer-conversations-mom-test.md` |
@@ -71,7 +73,7 @@ for "what the books say"; the playbooks are the method. No source → `[UNKNOWN]
 In sales this includes deliverability and anti-spam/privacy law.
 
 ## Beyond the books
-The sources are US B2B, 1980s–2010s. Product-led sales, security reviews and MSAs, partner channels, AI-written outreach, services firms and relationship-first or WhatsApp-first markets (much of India) fall outside them: say so, adapt, and log the adaptation as an assumption.
+The sources are US B2B, 1980s–2010s. Product-led sales, security reviews and MSAs, partner channels, AI-written outreach, services firms and relationship-first or WhatsApp-first markets (much of India) fall outside them: say so, adapt, and log the adaptation as an assumption. In relationship-first markets, start with rings 1–2 [Lavingia].
 
 ## Hand-offs
 - Before: `/customer-discovery` (interviews), `/problem-discovery`, `/jtbd`, `/value-proposition-canvas` (what the gap is made of).

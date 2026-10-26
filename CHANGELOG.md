@@ -1,5 +1,19 @@
 # Changelog
 
+## 3.1.0 (2026-10-26)
+
+Compared against Sahil Lavingia's single-book skills ([slavingia/skills](https://github.com/slavingia/skills))
+and took what founder-stack lacked, in our own words and credited `[Lavingia]`:
+
+- **`/sales` first customers:** sell in rings (trust, community, then cold) with a daily-math block
+  (goal ÷ price ÷ days left ÷ win rate ÷ reply rate = touches per day). New router row for
+  "lots of cold outreach, zero replies". Ring-1 money counts as E4 but not as independent evidence.
+- **Router:** a five-question **Quick decision check** for "should I build / hire / spend / launch X?".
+- **`/experiments`:** a manual runbook template (processize before you productize) with explicit
+  automate-when signals.
+- **`/gtm`:** "sell ~100 first, launch later" added to the quiet-vs-loud launch tension.
+- `argument-hint` on the router and the four domain skills.
+
 ## 3.0.0 — founder-stack (2026-10-19)
 
 Successor to **startup-coach** (v1–v2). One pack from idea to scale.
