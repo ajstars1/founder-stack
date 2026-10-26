@@ -78,7 +78,7 @@ The sources are US B2B, 1980s–2010s. Product-led sales, security reviews and M
 
 ## Hand-offs
 - Before: `/customer-discovery`, `/problem-discovery`, `/jtbd`, `/value-proposition-canvas`.
-- Elsewhere: positioning, pricing and launch timing (Product Hunt, launch sites) `/gtm`; offers and copy `/marketing`; names and voice `/branding`; running the push day by day `/outreach-sprint`.
+- Elsewhere: positioning, pricing and launch timing (Product Hunt, launch sites) `/gtm`; offers, copy and founder posts `/marketing`; names and voice `/branding`; running the push day by day `/outreach-sprint`.
 - Alongside/after: `/secondary-research`, `/experiments`, `/facts-assumptions-unknowns`, `/business-model-canvas`, `/startup-scorecard`, `/learn`.
 
 ## Go deeper (optional)

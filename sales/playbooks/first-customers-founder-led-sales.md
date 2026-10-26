@@ -3,7 +3,7 @@
 
 ## Method
 1. **Own the job.** Early selling is product work in front of buyers: each call tests story, segment and price at once. A hired rep can't do it; the story isn't finished [Kazanjy].
-2. **Write the narrative before any collateral.** In order: the problem, who carries it (budget or labour), what it costs them, how they cope today and why that falls short, what changed to make a fix possible, how yours works, your proof, your price. Each step must land before the next. A prospect who rejects step one ends the pitch and saves you both time [Kazanjy].
+2. **Write the narrative before any collateral:** the problem, who carries it, what it costs, how they cope today and why that falls short, what changed, how yours works, proof, price. Each step must land before the next; a prospect who rejects step one saves you both time [Kazanjy].
 3. **List every problem you solve** with impact and root cause; it drives questions, demo and targeting [Keenan].
 4. **Pick earlyvangelists:** they have the problem, know it, can pay, and already hacked a workaround. Emotion is the tell [Fitzpatrick].
 5. **Aim at mid-sized accounts.** Tiny ones churn and pay little; giants move slowly and protect incumbents [Kazanjy].
@@ -19,7 +19,7 @@
 - If buyers take fewer than half your proposals, you're sending them too early. Make buyers earn one with a scoping conversation [Ross].
 - Introduce one new thing at a time. A new category plus an unfamiliar pricing model doubles the buyer's risk [Kazanjy].
 - Free work "for the logo" teaches you nothing about willingness to pay. Run a paid or success-priced pilot; even a small price changes the signal [Lavingia].
-- Need a yes this week? Go to ring 1 or 2. Cold replies mostly arrive days later, after the second touch. Ring-1 money is real E4 but not independent evidence of demand.
+- Need a yes this week? Go to rings 1–2; cold replies mostly arrive after the second touch. Ring-1 money is real E4 but not independent evidence.
 - Do 3–5 conversations in one tight segment and you should start hearing the same things. Still scattered after 10 means the segment is too broad [Fitzpatrick].
 - You're ready to leave this mode when the narrative holds across accounts, you can book your own meetings, and the win rate is steady [Kazanjy].
 
@@ -46,9 +46,12 @@ EARLYVANGELIST CHECK (per account)
 
 RINGS: ring 1 (trust) __ names | ring 2 (community) __ | ring 3 (cold) __
 
-DAILY MATH
-Revenue goal __ ÷ price __ = customers __ ÷ business days left __ = closes/day __
-Closes/day ÷ win rate __ = qualified meetings/day __ ÷ reply rate __ = touches/day __
+DAILY MATH (one formula; rates per account over the whole cadence, not per touch)
+Customers needed __ (revenue goal ÷ price, or a count)
+÷ close rate __ (conversation → paid) = conversations __
+÷ reply → conversation __ = replies __ ÷ reply rate per account __ = accounts to start __
+Last start date = deadline − cadence length − time to close __ → business days to start __
+Accounts to start ÷ those days = new accounts/day __ (× touches per account = touches/day)
 
 MEETING PLAN
 Ask I'll make at the end: ____________ (named person, action, date)

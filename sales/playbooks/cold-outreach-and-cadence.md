@@ -1,4 +1,4 @@
-# Get meetings from cold outreach
+# Get replies, then meetings, from cold outreach
 **Use when:** outreach gets ignored, you need a first sequence, or you need to decide between calling, emailing and asking for referrals.  ·  **Sources:** Predictable Revenue (Ross), Gap Selling (Keenan), Founding Sales (Kazanjy), The Mom Test (Fitzpatrick), Never Split the Difference (Voss)
 
 ## Method
@@ -18,11 +18,11 @@
    - **Burst** [Kazanjy]: about five or six touches in a week, ending with a polite sign-off. Fits a long list of mid-value accounts.
    - **Campaign** [Keenan]: 8–12 touches a few business days apart, each bringing a new impact or offer, with a more challenging note near the end. Fits a short list of valuable accounts.
 8. **Follow the heat.** Call anyone who replies or clicks the same day, and answer inbound within minutes, because contact rates collapse within half an hour [Kazanjy] [Ross].
-9. **On the phone:** ask permission, give your reason in one line, ask one question about their problem, and book the meeting a few days out with a same-day reminder [Kazanjy].
+9. **On the phone:** ask permission, give your reason in one line, ask one question about their problem; if they engage, book the meeting a few days out with a same-day reminder [Kazanjy].
 10. **Measure results, not activity:** replies, meetings held and qualified opportunities per 100 accounts [Ross]. Judge an angle or channel only after 5–7 touches per account over one to two weeks; most replies come after the second touch [Kazanjy] [Ross].
 
 ## Rules of thumb
-- One ask per message: a referral or a time, never both [Ross].
+- One ask per message: a reply, a referral or (once they've engaged) a time; never two [Ross].
 - No fake "Re:" subjects, false familiarity or invented urgency [Ross]. They cost trust permanently.
 - Don't decide for the buyer that they're too busy. Let them say no [Keenan].
 - Ross's double-digit reply rates come from roughly 2003–2011 inboxes. Benchmark your own baseline.

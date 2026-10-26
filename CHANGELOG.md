@@ -19,6 +19,9 @@ book covers are tagged `[Field]` and stated as conditions to test.
 - **Cold outreach:** channel by where the person answers, judge only after 5–7 touches over one
   to two weeks, `[Field]` deliverability rules for new domains.
 - **Correction to 3.1:** ring 1 gives intros first. Sell only to friends who carry the pain.
+- **One daily-math formula** everywhere (first-customers, outreach-sprint): customers ÷ close rate ÷
+  reply-to-conversation ÷ reply rate per account = accounts to start, before a last start date that
+  leaves room for the cadence and the close. Replaces the 3.1 version.
 - **Launch strategy:** launch sites only after a self-serve trial and quotable paying users.
 - **Field notes loop:** the router and domain skills read `discovery/FIELD-NOTES.md` first. The
   spec adds the `[Field]` tag.

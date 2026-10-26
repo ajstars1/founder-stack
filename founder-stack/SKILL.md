@@ -75,7 +75,7 @@ Gate each step on evidence, not enthusiasm. Skip any step the ledger already set
 2. **Problem → solution worth paying for:** `/jtbd` → `/value-proposition-canvas` →
    `/experiments`. Gate: E3 commitments from 3 or more.
 3. **Solution → first revenue:** `/gtm` (positioning, beachhead, pricing) → `/branding` (name and
-   one-liner) → `/sales` (first-customers) → `/outreach-sprint` (run it). Gate: E4 from paying customers.
+   one-liner) → `/sales` (first customers) → `/outreach-sprint` (run it). Gate: E4 from paying customers.
 4. **First revenue → repeatable growth:** `/marketing` (offer, channel, retention) → `/gtm`
    (growth model) → `/sales` (pipeline, first hires). Gate: retention holds and one channel works
    at a known cost.

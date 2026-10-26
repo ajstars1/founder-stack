@@ -18,7 +18,7 @@
 - After an accept, send the gift or a one-line question, not the pitch you already sent.
 - A free offer that gets no takers fails for one of three reasons: they don't want it, don't believe it, or never saw it [Hormozi]. Test one cause at a time, and give a believable reason why it's free.
 - Under 90 words, one question, one credibility fact [Ross].
-- Still silent after the full window (`cold-outreach-and-cadence.md`)? The cheapest fix is a warm path: ask people who trust you "who do you know who has this problem right now?" (rings, `first-customers-founder-led-sales.md`) [Fitzpatrick] [Kazanjy].
+- Run a warm path alongside cold from day one, not after it fails: ask people who trust you "who do you know who has this problem right now?" (rings, `first-customers-founder-led-sales.md`). A warm intro starts higher on the ladder [Fitzpatrick] [Kazanjy].
 - [Field] A news hook must survive a fact check by the reader. One wrong detail ("X dropped Y") costs more trust than the hook earns.
 
 ## Mistakes

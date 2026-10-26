@@ -9,16 +9,16 @@ The execution loop for a 1–4 week push. `/sales` and `/marketing` hold the met
 
 ## Start here
 1. Read `discovery/00-CONTEXT.md`, `discovery/LEDGER.md` and `discovery/FIELD-NOTES.md` if they exist. Your own past numbers beat any benchmark.
-2. Get four things or ask for them: the goal as a number and a date, the offer and price, who signs, and which channels and accounts the founder can send from.
+2. Get four things or ask for them: the goal as a number and a date, the offer and price, who signs, and which channels and accounts the founder can send from. If you can't ask, state assumptions (graded E0) and go on.
 3. Open `discovery/sprints/<date>-<name>.md` from TEMPLATES §1. Everything below is logged there, in the repo, the same day. Scratch folders get wiped.
 
 ## The loop
 
 **Day 0: plan**
-1. **Daily math** (`/sales` first-customers): goal ÷ price ÷ days left ÷ conversion ÷ reply rate = touches per day. If the cold numbers can't reach the goal by the date, say so now. The fix is more warm volume or a new date, never a lower price.
+1. **Daily math** (`TEMPLATES.md` §1 in this skill's folder, same formula as `../sales/playbooks/first-customers-founder-led-sales.md`): customers needed ÷ close rate ÷ reply-to-conversation rate ÷ reply rate per account = accounts to start, spread over the days before the last start date (deadline minus cadence length minus time to close). Take the reply rate from the founder's own sends or `FIELD-NOTES.md`. With no baseline, run the math at 2% and 10% and plan for the low end. If cold can't reach the goal by the date, say so now. The fix is more warm volume or a new date, never a lower price.
 2. **Rings before cold** [Lavingia] [Fitzpatrick]. List 15–30 ring-1 names (people who trust the founder) and ring-2 doorways (cohort leads, community hosts, people who posted about the problem). Ring 1 is asked for intros first. Only the founder sends ring-1 messages, or approves each one by name.
-3. **One ask per awareness stage** (`/sales` first-ask-design). Draft the ladder (reply → sample → low-stakes try → real use) and the gift. Founder approves the copy.
-4. **Plan every touch on day 0.** Touch 2 at day 3–5, touch 3 with a new angle or visual at about day 7, a polite close at about day 12. Put them on the sprint calendar.
+3. **One ask per awareness stage** (`../sales/playbooks/first-ask-design.md`). Draft the ladder (reply → sample → low-stakes try → real use) and the gift; track versions in TEMPLATES §3. Founder approves the copy.
+4. **Plan every touch on day 0: 5–7 per account over about two weeks**, each adding something new: touch 1 day 0; touch 2 on another channel day 2–3; touch 3 the gift or a new angle day 5; touch 4 a visual or proof day 7; touch 5 a new angle day 10; a polite close day 12–14 [Kazanjy] [Ross]. Put them on the sprint calendar. Start no new account after the last start date.
 
 **Daily: run**
 5. **Targets via research agents** (brief in TEMPLATES §2). Each agent gets an exclusion file, a JSON output path it rewrites every three entries, a time box, and "fewer is fine; never guess an address". Verify every person by searching name plus company. Never trust a profile URL an agent produced.
@@ -43,5 +43,5 @@ The execution loop for a 1–4 week push. `/sales` and `/marketing` hold the met
 Each day: the sprint log, sends and replies, and the next day's list for approval. Each week: the scoreboard, keep/change/kill per channel, and the field-notes and ledger delta. End with: where the goal stands, the riskiest assumption and tomorrow's first action.
 
 ## Hand-offs
-- Method: `/sales` (first-customers, first-ask-design, cold-outreach-and-cadence), `/marketing` (founder-posts-and-communities, channel-selection).
+- Method: `/sales` playbooks `first-customers-founder-led-sales`, `first-ask-design`, `cold-outreach-and-cadence`, `/marketing` (founder-posts-and-communities, channel-selection).
 - Tests and grading: `/experiments`. Ledger: `/founder-stack`.

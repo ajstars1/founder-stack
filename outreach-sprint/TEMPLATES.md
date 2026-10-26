@@ -7,9 +7,12 @@ SPRINT: <name>   Window: <start> → <end>   Goal: <number> <outcome> by <date>
 Offer + price: ____________   Signer: ____________
 Senders: <channel / account / daily cap>
 
-DAILY MATH
-Goal __ ÷ price __ = customers __ ÷ conversion __ [A#] = trials __
-÷ business days __ = trials/day __ ÷ reply rate __ [A# or F#] = touches/day __
+DAILY MATH (one formula; rates per account over the whole cadence, not per touch)
+Customers needed __ (revenue goal ÷ price, or a count)
+÷ close rate __ [A#] (conversation → paid) = conversations __
+÷ reply → conversation __ = replies __ ÷ reply rate per account __ [A# or F#] = accounts to start __
+Last start date = deadline − cadence length − time to close __ → business days to start __
+Accounts to start ÷ those days = new accounts/day __ (× touches per account = touches/day)
 Can cold alone reach it? yes / no → warm volume needed: __ asks/day
 
 RINGS
